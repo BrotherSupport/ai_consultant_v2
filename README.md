@@ -2,7 +2,7 @@
 
 企業 AI 導入顧問公司的單頁式行銷官網（繁體中文），純靜態，部署於 GitHub Pages。
 
-**線上網址：** https://brothersupport.github.io/ai_consultant_v2/
+**線上網址：** https://jerryliu7777.github.io/ai_consultant_v2/
 
 ---
 
